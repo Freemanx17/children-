@@ -2,11 +2,41 @@
   "letters": [
     {"name": "أ", "img": "https://i.imgur.com/a36Eay1.jpeg"},
     {"name": "ب", "img": "https://i.imgur.com/LPs8e1V.jpeg"},
-    // ... بقية الحروف
+    {"name": "ت", "img": "https://i.imgur.com/9pSCrYt.jpeg"},
+    {"name": "ث", "img": "https://i.imgur.com/phv1Xld.jpeg"},
+    {"name": "ج", "img": "https://i.imgur.com/tuD3ByO.jpeg"},
+    {"name": "ح", "img": "https://i.imgur.com/aksf3iB.jpeg"},
+    {"name": "خ", "img": "https://i.imgur.com/yYiGdPQ.jpeg"},
+    {"name": "د", "img": "https://i.imgur.com/3bjcRNN.jpeg"},
+    {"name": "ذ", "img": "https://i.imgur.com/nETa7pR.jpeg"},
+    {"name": "ر", "img": "https://i.imgur.com/FDlCUfo.jpeg"},
+    {"name": "ز", "img": "https://i.imgur.com/RN9iaVS.jpeg"},
+    {"name": "س", "img": "https://i.imgur.com/MwD1Hya.jpeg"},
+    {"name": "ش", "img": "https://i.imgur.com/X6tUiiO.jpeg"},
+    {"name": "ص", "img": "https://i.imgur.com/e1oFNMy.jpeg"},
+    {"name": "ض", "img": "https://i.imgur.com/oiw4pO6.jpeg"},
+    {"name": "ظ", "img": "https://i.imgur.com/lVwMqMW.jpeg"},
+    {"name": "ع", "img": "https://i.imgur.com/wT7c9Ha.jpeg"},
+    {"name": "غ", "img": "https://i.imgur.com/3eFTbiW.jpeg"},
+    {"name": "ف", "img": "https://i.imgur.com/OwOO8Mz.jpeg"},
+    {"name": "ق", "img": "https://i.imgur.com/iHOhXX9.jpeg"},
+    {"name": "ك", "img": "https://i.imgur.com/Lnw9p5P.jpeg"},
+    {"name": "ل", "img": "https://i.imgur.com/e0BfS8T.jpeg"},
+    {"name": "م", "img": "https://i.imgur.com/DwL9tJQ.jpeg"},
+    {"name": "ن", "img": "https://i.imgur.com/aIM8weT.jpeg"},
+    {"name": "ه", "img": "https://i.imgur.com/cExW8ul.jpeg"},
+    {"name": "و", "img": "https://i.imgur.com/DnX7QDC.jpeg"},
+    {"name": "ي", "img": "https://i.imgur.com/zE8uToi.jpeg"}
   ],
   "numbers": [
     {"name": "1", "img": "https://i.imgur.com/BYGX1S6.gif"},
     {"name": "2", "img": "https://i.imgur.com/Mv8DP1W.gif"},
-    // ... بقية الأرقام
+    {"name": "3", "img": "https://i.imgur.com/4aLttxf.gif"},
+    {"name": "4", "img": "https://i.imgur.com/OeZlgZB.gif"},
+    {"name": "5", "img": "https://i.imgur.com/Jmf2ROf.gif"},
+    {"name": "6", "img": "https://i.imgur.com/AmmwtEq.gif"},
+    {"name": "7", "img": "https://i.imgur.com/czNrNcW.gif"},
+    {"name": "8", "img": "https://i.imgur.com/508xZhe.gif"},
+    {"name": "9", "img": "https://i.imgur.com/9rHTDot.gif"}
   ]
 }
